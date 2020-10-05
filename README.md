@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
 -->
 
-[![Anurag's GitHub stats](http://github-readme-stats-.vercel.app/api?username=minierparedes)](github.com/anuraghazra/github-readme-stats)
+[![Minierparedes's GitHub stats](http://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes)](github.com/minierparedes/github-readme-stats)
