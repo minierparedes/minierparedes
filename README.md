@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
 -->
 
-< img align="left" src="http://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&show_icons=true&hide_border=true">
+< img align="left" src="http://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&show_icons=true&hide_border=true"/>
