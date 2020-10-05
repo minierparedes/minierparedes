@@ -8,7 +8,7 @@
 - 💬 Ask me about JS and swift 
 - 📫 How to reach me: [Twitter - @minierparedes](https://twitter.com/minierparedes) , [LinkedIn - @minierparedes](https://www.linkedin.com/in/minierparedes/)
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Twitter].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitter.svg" />
 - ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
 -->
 
