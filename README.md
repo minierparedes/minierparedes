@@ -26,8 +26,8 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/>
 
-### GitHub Stats
-<br/>
+
+
 <img align="left" src="http://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&show_icons=true&hide_border=true"/>
 
 
