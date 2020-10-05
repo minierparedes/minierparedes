@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
 -->
 
-<img align="left"  src= "https://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left"  src= "https://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&show_icons=true&hide_border=true" />
