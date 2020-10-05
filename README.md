@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
 
 <img align="left" src="http://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes&show_icons=true&hide_border=true"/>
-
+<br/>
 
 ### Languages and tools
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
@@ -27,13 +27,3 @@
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>]
 [<img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/>]
-
-
-
-
-
-
-
-
-
-
