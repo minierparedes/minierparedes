@@ -25,11 +25,3 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/>.
-
-
-### GitHub
-<img align="left" src="https://camo.githubusercontent.com/967be8788e0fff35931eea82158a423939c23893/687474703a2f2f6769746875622d726561646d652d73746174732e6d696e696572706172656465732e76657263656c2e6170702f6170693f757365726e616d653d6d696e696572706172656465732673686f775f69636f6e733d7472756526686964655f626f726465723d74727565"/>
-
-
-
-
