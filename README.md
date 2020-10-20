@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on  Full-Stack site for a chef
-- 🌱 I’m currently learning  Swift
 - 👯 I’m looking to collaborate on Opensource projects 
 - 💬 Ask me about JS and swift 
 
