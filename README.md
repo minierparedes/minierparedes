@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on  Full-Stack site for a chef
 - 🌱 I’m currently learning  Swift
 - 👯 I’m looking to collaborate on Opensource projects 
-- 🤔 I’m looking for help with Swift Core Graphics and SwiftUI
 - 💬 Ask me about JS and swift 
 
 ### Connect with me:
