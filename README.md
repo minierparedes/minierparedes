@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  Full-Stack site for a chef
 - 👯 I’m looking to collaborate on Opensource projects 
-- 💬 Ask me about JS and swift 
+- 💬 Ask me about JavaScript and/or swift 
 
 ### Connect with me:
 
