@@ -37,9 +37,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 <img align="left" width="26px" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/master/images/logo-stable.png"/>
 <img align="left" width="28px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png"/>
 
-
-<br>
-<br>
 <br>
 
 
@@ -57,7 +54,13 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 ### Coding stats
 
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
 
+=======
+```text
+No Activity tracked this Week
+```
+>>>>>>> 161ebd2191d13a7e3eb8e6075a1f52b801a22401
 <!--END_SECTION:waka-->
 
 <br>
@@ -65,6 +68,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 ### Github stats
 <br>
 
-![Minierparedes's github stats](https://github-readme-stats.vercel.app/api?username=minierparedeshide=contribs,prs)
+![Minierparedes's github stats](https://github-readme-stats.vercel.app/api?username=minierparedes&hide=contribs,prs)
 
 </details>
