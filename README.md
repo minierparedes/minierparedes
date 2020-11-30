@@ -54,13 +54,9 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 ### Coding stats
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-
-=======
 ```text
 No Activity tracked this Week
 ```
->>>>>>> 161ebd2191d13a7e3eb8e6075a1f52b801a22401
 <!--END_SECTION:waka-->
 
 <br>
