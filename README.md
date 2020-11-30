@@ -23,8 +23,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 <br>
 
 ### Languages and tools
-<br>
-
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -39,9 +37,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 <img align="left" width="26px" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/master/images/logo-stable.png"/>
 <img align="left" width="28px" src="https://codewithchris-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/icons8-xcode-512.png"/>
 
-
-<br>
-<br>
 <br>
 
 
