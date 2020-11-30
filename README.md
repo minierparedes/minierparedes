@@ -64,6 +64,6 @@ No Activity tracked this Week
 ### Github stats
 <br>
 
-![Minierparedes's github stats](https://github-readme-stats.vercel.app/api?username=minierparedes)
+![Minierparedes's github stats](https://github-readme-stats.minierparedes.vercel.app/api?username=minierparedes)
 
 </details>
