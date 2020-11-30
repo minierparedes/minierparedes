@@ -23,8 +23,8 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 <br>
 
 ### Languages and tools
-
 <br>
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -66,4 +66,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 ### Github stats
 <br>
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=minierparedes&count_private=true&hide=contribs,prs)
+![Minierparedes's github stats](https://github-readme-stats.vercel.app/api?username=minierparedes&count_private=true&hide=contribs,prs)
+
+</details>
