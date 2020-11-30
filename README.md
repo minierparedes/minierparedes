@@ -59,11 +59,5 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<br>
-
-### Github stats
-<br>
-
-![Minierparedes's github stats](https://github-readme-stats.vercel.app/api?username=minierparedes)
 
 </details>
