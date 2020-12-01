@@ -55,7 +55,9 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     3 hrs 49 mins   ███████████████████████▓░   94.20 % 
+YAML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
