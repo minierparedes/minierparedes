@@ -57,10 +57,10 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 37 mins   ███████████████████▓░░░░░   79.01 % 
-Vue.js       2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript   10 hrs 23 mins  ████████████████████░░░░░   79.97 % 
+Vue.js       2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 
