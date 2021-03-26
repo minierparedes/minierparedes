@@ -57,9 +57,8 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 26 mins   ████████████████████████░   95.57 % 
-Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JavaScript   8 hrs 9 mins    ██████████████████████▒░░   89.20 % 
+Markdown     59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 ```
 <!--END_SECTION:waka-->
 
