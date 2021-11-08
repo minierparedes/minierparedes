@@ -53,6 +53,6 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
   More stuff about me
 </summary>
 
-### Coding stats
+
 
 </details>
