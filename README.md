@@ -1,13 +1,79 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there 👋
 
-I'm a software engineer and sometimes I can wow a crowd with some great recipes I enjoy cooking. I spend most of my time creating projects both coding in my laptop and cooking in my kitchen!
+👨‍💻 Software Engineer by day, 🍳 Culinary Wizard by night. Whether I'm crafting code or cooking up a storm, I'm all about creating and innovating. <br>
+Dive into my repos, or ask me for a stellar recipe – I'm equally passionate about both! 🚀🥘
 
 <br>
 
-- 🔭 I’m currently working on  Full-Stack site for a chef
-- 👯 I’m looking to collaborate on Opensource projects 
-- 💬 Ask me about JavaScript and/or Swift 
+- 👨‍💻 Diving into personal projects, pushing code boundaries.
+- 🤝 Open source believer; collaborating, innovating, sharing.
+- 🚀 Passionate about new tech trends; always ready for the next challenge.
 
+<br>
+
+
+- ⚡ 
+<br>
+
+### Tech I'm passionate about
+
+### Frontend:
+
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+</div>
+
+### Backend:
+
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://amazon-dynamodb-labs.com/images/Amazon-DynamoDB.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"/>
+</div>
+
+
+### Cloud & Containerization
+
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"/>
+</div>
+<div style="display: inline-block; margin-right: 6px;">
+    <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+</div>
 <br>
 
 ### Connect with me:
@@ -17,40 +83,5 @@ I'm a software engineer and sometimes I can wow a crowd with some great recipes 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/minierparedes) &nbsp;&nbsp; [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/minierparedes/)
 
 <br>
-
-- ⚡ Fun fact: I learnt how to cook because I wanted to impress my family and friends.
-
-<br>
-
-### Languages and tools
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
-<img align="left" width="26px" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4"/>
-<img align="left" width="26px" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/master/images/logo-stable.png"/>
-
-
-<br>
-
-
-#### Profile visits
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=minierparedes.minierparedes)
-
-<br>
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-
 
 </details>
