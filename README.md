@@ -34,7 +34,7 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 <div style="display: inline-block; margin-right: 6px;">
     <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 </div>
-
+<br>
 
 ### Backend:
 
@@ -62,8 +62,7 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 <div style="display: inline-block; margin-right: 6px;">
     <img align="left" width="26px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4"/>
 </div>
-
-
+<br>
 
 ### Cloud & Containerization
 
