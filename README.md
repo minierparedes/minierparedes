@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-👨‍💻 Software Engineer by day, 🍳 Culinary Wizard by night. Whether I'm crafting code or cooking up a storm, I'm all about creating and innovating. <br>
+👨‍💻 Software Engineer by day, 🍳 Culinary Wizard by night. <br>
+Whether I'm crafting code or cooking up a storm, I'm all about creating and innovating. <br>
 Dive into my repos, or ask me for a stellar recipe – I'm equally passionate about both! 🚀🥘
 
 <br>
@@ -12,10 +13,9 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 <br>
 
 
-- ⚡ 
 <br>
 
-### Tech I'm passionate about
+### Tech I'm passionate about ⚡ 
 
 ### Frontend:
 
@@ -34,6 +34,7 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 <div style="display: inline-block; margin-right: 6px;">
     <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 </div>
+
 
 ### Backend:
 
@@ -63,6 +64,7 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 </div>
 
 
+
 ### Cloud & Containerization
 
 <div style="display: inline-block; margin-right: 6px;">
@@ -75,6 +77,8 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
     <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 </div>
 <br>
+
+
 
 ### Connect with me:
 <br>
