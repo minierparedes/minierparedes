@@ -36,6 +36,8 @@ Dive into my repos, or ask me for a stellar recipe – I'm equally passionate ab
 </div>
 <br>
 
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
+
 #### Backend:
 
 <div style="display: inline-block; margin-right: 6px;">
